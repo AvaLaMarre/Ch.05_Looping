@@ -2,13 +2,13 @@
 
 '''
  1. Make the following program work. LIST THE 3 MISTAKES (5pts)
-   '''  
-     print("This program takes three integers and returns the sum.")
-     total = 0
-     for i in range(3):
-         x = input("Enter a number: ")
-         total+=i
-     print("The total is:", x)
+   '''
+print("This program takes three integers and returns the sum.")
+total = 0
+for i in range(3):
+    x = input("Enter a number: ")
+    total+=i
+print("The total is:", x)
 
 #1
 #2
