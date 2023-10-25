@@ -178,7 +178,7 @@ while not done:
             if miles_travelled - behind <= 15:
                 print("The Aliens Are Close Behind... Run Faster")
                 print("They Are ", (miles_travelled - behind), "Miles Behind You")
-            if camel_tire >= 7:
+            if camel_tire >= 6:
                 print("Your Camel-Like Creature Is Getting Tired... You Should Let It Rest")
             if thirst >= 2:
                 print("You Are Getting Thirsty, You Should Drink Some Water")
