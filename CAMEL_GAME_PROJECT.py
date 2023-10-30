@@ -167,7 +167,7 @@ while not done:
             win = True
             print("You Have Traveled 200 Miles")
             print("                 *             |   ")
-            print("  *                         *  |  ")
+            print("  *        <3               *  |  ")
             print("    YAY! *    |-__  *          |   ")
             print("*             | _-    ( )   *  |   /")
             print("    _/\_/\_/\_||      /|\      |  |  ")
